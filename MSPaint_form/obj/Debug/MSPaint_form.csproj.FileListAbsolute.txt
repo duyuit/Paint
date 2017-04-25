@@ -1,0 +1,9 @@
+D:\Nhap VS\MSPaint_form\MSPaint_form\bin\Debug\MSPaint_form.exe.config
+D:\Nhap VS\MSPaint_form\MSPaint_form\bin\Debug\MSPaint_form.exe
+D:\Nhap VS\MSPaint_form\MSPaint_form\bin\Debug\MSPaint_form.pdb
+D:\Nhap VS\MSPaint_form\MSPaint_form\obj\Debug\MSPaint_form.form1.resources
+D:\Nhap VS\MSPaint_form\MSPaint_form\obj\Debug\MSPaint_form.Properties.Resources.resources
+D:\Nhap VS\MSPaint_form\MSPaint_form\obj\Debug\MSPaint_form.csproj.GenerateResource.Cache
+D:\Nhap VS\MSPaint_form\MSPaint_form\obj\Debug\MSPaint_form.exe
+D:\Nhap VS\MSPaint_form\MSPaint_form\obj\Debug\MSPaint_form.pdb
+D:\Nhap VS\MSPaint_form\MSPaint_form\obj\Debug\MSPaint_form.csprojResolveAssemblyReference.cache
