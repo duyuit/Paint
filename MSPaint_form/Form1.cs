@@ -13,6 +13,7 @@ namespace MSPaint_form
     public partial class form1 : Form
     {
         //"aa"
+        //"bb"
         private Point _p1 = new Point();//Point mouse down
         private Point _p2 = new Point();//Point mouse up
         private bool _isDown; //Check mouse is clicking
